@@ -1,2 +1,2 @@
-# Trabalho-INTCOMP
-Esse trabalho consistia na elaboração de um protótipo, um diagrama de classes e um documento de requisitos para um sistema de streaming de vídeo.
+# WORK-Introduction to Computing
+This work consisted in the elaboration of a prototype, a class diagram and a requeriments document for a video streaming system.
